@@ -9,7 +9,9 @@ const Header = function () {
         </div>
         <div className="email">Send EMail</div>
       </div>
-      <h1>CloadTest UK Limited</h1>
+      <div className={styles.companyName}>
+        <h1>CloadTest UK Limited</h1>
+      </div>
     </header>
   );
 };
