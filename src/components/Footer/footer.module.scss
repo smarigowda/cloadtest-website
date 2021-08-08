@@ -1,18 +1,13 @@
-footer {
+.footer {
   display: grid;
   row-gap: 10px;
   background-color: var(--primary);
   padding: 1rem;
-}
-p {
-  color: var(--light);
-  text-align: center;
-  font-size: 1rem;
-}
-
-i {
-  color: var(--light);
-  font-size: 20px;
+  p {
+    color: var(--light);
+    text-align: center;
+    font-size: 1rem;
+  }
 }
 
 .socials {
@@ -20,4 +15,8 @@ i {
   justify-content: center;
   column-gap: 10px;
   padding: .75rem;
+  i {
+    color: var(--light);
+    font-size: 20px;
+  }
 }
