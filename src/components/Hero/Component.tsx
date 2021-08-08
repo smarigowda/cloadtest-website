@@ -29,16 +29,14 @@ const Hero = () => {
         <section className={styles.content}>
           <h2>Test Automation Services</h2>
           <p>
-            We create affordable and effective websites for small businesses and
-            start-ups. With expertise in visual design and user experience,
-            combined with web coding and digital marketing, we drive leads and
-            sales opportunities to your small business.
+            We know automation testing inside out. With our automation testing
+            services, you get the first payoffs from test automation investment
+            in just a few weeks..
           </p>
           <p>
-            Bespoke web design comes as standard, along with a superior level of
-            personal service and support. Advice and prices are offered with
-            complete transparency based on your specific needs, aiming to bring
-            the greatest success to your business.
+            Our automation software testing services are designed to check every
+            functional aspect of your solution and make sure it behaves as it
+            should. And to maximize quality.
           </p>
         </section>
       </div>
