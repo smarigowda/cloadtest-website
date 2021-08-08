@@ -6,11 +6,18 @@
   text-align: center;
 }
 
-.header-top {
+.headerTop {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
-.icon {
-  font-size: 3rem;
+.contactPhone {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  i {
+    display: block;
+    font-size: 2.5rem;
+  }
 }
