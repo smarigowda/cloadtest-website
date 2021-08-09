@@ -1,7 +1,9 @@
 import styles from "./header.module.scss";
+import cn from "classnames";
+
 const Header = function () {
   return (
-    <header className={styles.header}>
+    <header className={cn(styles.header)}>
       <div className={styles.headerTop}>
         <div className={styles.contactPhone}>
           <i className="fas fa-phone"></i>
